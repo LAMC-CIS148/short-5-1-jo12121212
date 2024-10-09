@@ -22,6 +22,9 @@ main {
 p {
   text-align: right;
 }
+p cite{
+  text-align: right;
+}
 
 footer p{
   text-align: center;
