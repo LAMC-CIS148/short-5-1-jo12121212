@@ -25,6 +25,8 @@ p {
   text-align: right;
 }
 p cite{
+  font-family: sans-serif;
+  color: blue;
   text-align: right;
 }
 
