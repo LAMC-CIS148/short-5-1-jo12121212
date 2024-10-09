@@ -7,6 +7,7 @@ html {
  */
 
 body {
+  border: 5px double blue;
   text-align: center;
   width: 650px;
   background-color: yellow;
