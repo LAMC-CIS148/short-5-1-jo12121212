@@ -8,6 +8,9 @@ background-image: (to bottom, white 0%, yellow 100%);
  */
 
 body {
+  border-radius: 25px;
+  margin: 15px auto;
+  padding: 15px 1.5em;
   border: 5px double blue;
   width: 650px;
   background-color: white;
