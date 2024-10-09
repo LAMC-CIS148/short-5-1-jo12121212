@@ -6,7 +6,9 @@ background-image: yellow;
 /**
  * Remove default margin.
  */
-
+img {
+  float:left;
+}
 body {
   margin: 15px auto;
   padding: 15px 1.5em;
