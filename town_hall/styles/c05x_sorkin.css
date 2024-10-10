@@ -66,11 +66,13 @@ li {
     margin-bottom: 0.75em; 
 }
 
+footer {
+      border-top: 10px solid blue;
+}
 footer p {
     font-size: 90%; 
     font-weight: bold;
     text-align: center; 
     margin: 10px 0; 
-    border-top: 10px solid blue;
 }
 
