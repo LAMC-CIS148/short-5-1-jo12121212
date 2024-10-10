@@ -69,5 +69,6 @@ footer p {
     font-weight: bold;
     text-align: center; 
     margin: 20px 0; 
+    border-top: 10px blue;
 }
 
