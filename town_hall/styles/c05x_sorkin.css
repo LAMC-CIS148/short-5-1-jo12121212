@@ -20,7 +20,7 @@ main {
   padding: 20px;
 }
 p {
-  text-align: right;
+  text-align: left;
 }
 p cite{
   font-style: normal;
