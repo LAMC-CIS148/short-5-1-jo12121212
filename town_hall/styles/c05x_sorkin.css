@@ -3,9 +3,7 @@ html {
   background-color: yellow;;
 }
 
-/**
- * Remove default margin.
- */
+
 img {
   float:left;
 }
@@ -30,47 +28,46 @@ p cite{
   text-align: right;
 }
 h1 {
-    font-size: 150%; /* 150% of the default body font size */
-    color: blue;     /* Blue color for the h1 */
-    margin: 20px 0; /* Adjust top and bottom margins for spacing */
+    font-size: 150%; 
+    color: blue;    
+    margin: 20px 0; 
 }
 
 h2 {
-    font-size: 125%; /* 125% of the default body font size */
-    margin: 18px 0; /* Adjust top and bottom margins for spacing */
+    font-size: 125%; 
+    margin: 18px 0;
 }
 
 h3 {
-    font-size: 115%; /* 115% of the default body font size */
-    margin: 16px 0; /* Adjust top and bottom margins for spacing */
+    font-size: 115%;
+    margin: 16px 0; 
 }
 p {
-    margin: 16px 0; /* Adjust top and bottom margins for spacing */
+    margin: 16px 0; 
 }
 
 blockquote {
-    margin: 20px 0; /* Slightly larger spacing for blockquotes */
-    padding: 10px;  /* Optional: add padding for a better look */
-    border-left: 4px solid #ccc; /* Optional: style for the blockquote */
+    margin: 20px 0; 
+    padding: 10px;  
 }
 
 ul {
-    margin: 16px 0; /* Similar spacing before and after lists */
-    padding-left: 20px; /* Indent the list for clarity */
+    margin: 16px 0; 
+    padding-left: 20px; 
 }
 
 li {
-    margin: 5px 0; /* Space between list items */
+    margin: 5px 0; 
 }
 .cite-paragraph {
-    text-align: right;  /* Right align the text */
-    margin-bottom: 0.75em; /* Increase the spacing below */
+    text-align: right;  
+    margin-bottom: 0.75em; 
 }
 
 footer p {
-    font-size: 90%; /* Set font size to 90% of the default */
-    font-weight: bold; /* Make the font bold */
-    text-align: center; /* Center the text */
-    margin: 20px 0; /* Adjust spacing above and below the footer paragraphs */
+    font-size: 90%; 
+    font-weight: bold;
+    text-align: center; 
+    margin: 20px 0; 
 }
 
