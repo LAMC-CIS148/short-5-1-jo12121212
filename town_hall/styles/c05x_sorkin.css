@@ -1,13 +1,13 @@
 html {
   font-family: sans-serif; /* 1 */
-  background-color: white;
+  background-color: yellow;
 }
 
 
 img {
   float:left;
-  padding-right: 10px
-  margin: 10px
+  padding-right: 10px;
+  margin: 10px;
 }
 body {
   margin: 10px auto;
@@ -67,7 +67,7 @@ li {
 }
 
 footer {
-      border-top: 10px blue;
+      border-top: 10px solid blue;
 }
 footer p {
     font-size: 90%; 
